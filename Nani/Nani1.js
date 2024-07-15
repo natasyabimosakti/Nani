@@ -13,7 +13,7 @@
 // @grant       GM.getValue
 // @grant       window.close
 // ==/UserScript==
-var refresh = 50;
+
 
 
 
