@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.03
+// @version      3.04
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani4.js
@@ -36,7 +36,7 @@ var namagroup6 = 'KIOST0T0';
 var Comment6 = 'KIOSTOTO=MINHARIMAU67=65*14*08'; 
 
 var namagroup7 = '453P';
-var Comment7 = '#ASEPTOGEL MINHAROLOL77 65*14*08'; 
+var Comment7 = 'ASEPTOGEL MINHAROLOL77 65*14*08'; 
 
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=MINHANTULO89=93*20*43'; 
