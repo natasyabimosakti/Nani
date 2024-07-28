@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.05
+// @version      3.06
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani3.js
@@ -65,6 +65,7 @@ var Comment15 = 'VESPATOGEL (FERDIGOD12)  57*59*98';
 
 var namagroup16 = '12312312';
 var Comment16 = '';
+
 
 var namagroup17 = 'CIVIC';
 var Comment17 = '';
