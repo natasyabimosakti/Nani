@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.15
+// @version      3.16
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani1.js?token=GHSAT0AAAAAACVY7DN4K7FY4LMSOW7GCVD4ZVTRX4Q
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani1.js?token=GHSAT0AAAAAACVY7DN4K7FY4LMSOW7GCVD4ZVTRX4Q
@@ -601,3 +601,23 @@ function closer() {
 
 
 }
+
+
+var lasturlku= ""
+var jar = setInterval(function(){
+    
+
+
+
+    if(location.href.includes("group")){
+        lasturlku = location.href;
+
+    }
+    
+    if(location.href.length <= 30 ){
+        location.href = lasturlku
+        clearInterval(jar)
+        return;
+    }
+
+},1500)
