@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.21
+// @version      3.22
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani1.js?token=GHSAT0AAAAAACVY7DN4K7FY4LMSOW7GCVD4ZVTRX4Q
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani1.js?token=GHSAT0AAAAAACVY7DN4K7FY4LMSOW7GCVD4ZVTRX4Q
@@ -46,8 +46,8 @@ var Comment9 = 'GILA4D=TANMEROT2=17*95*61';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(TANLOLO88)*47*54*49'; 
 
-var namagroup11 = 'CUYTOTO';
-var Comment11 = 'CUYTOTO*TANLETI72*65*56*99'; 
+var namagroup11 = 'TOYIB';
+var Comment11 = '#TOYIBSLOT ( TANLOL87 ) : 65*56*99';
 
 var namagroup12 = 'MASTER KUY';
 var Comment12 = 'TOGELKUY TANLANAS36 14*57*99'; 
