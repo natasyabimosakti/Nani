@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.23
+// @version      3.24
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani4.js?token=GHSAT0AAAAAACVY7DN42NTIO4V4G5TZJ7TYZVTRZSQ
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani4.js?token=GHSAT0AAAAAACVY7DN42NTIO4V4G5TZJ7TYZVTRZSQ
@@ -96,30 +96,28 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = [" ","Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah","aldy",
-             "brian","boboho","bobby","bonar","bella","bastian","bungaps","budi",
-             "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline","chikaku",
-             "denis","dollar","dewa","dewi","dinda","dika","dea","debby",
-             "echa","erika","elly","eugene","erwin","elmira","eleano","erna","elvina",
-             "farah","febrian","fiana","farid","fahresa","fatimm",
-             "gretha",
-             "herfizah","hana","hoihai","hefi","habib","harry","hokii",
-             "inisial","intan","icha","irfan","inves",
-             "jhone","jess","jovanka","jenifer","jihan","jesika","je pe",
-             "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten",
-             "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lehman","lidia","langit",
-             "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq",
-             "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
-             "oun","oscar","otong",
-             "puput","primus","payton","pura","priyan","prediction",
-             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu",
-             "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra",
-             "tink","thonex","tiara","tania","tag",
-             "ujen",
-             "vonny","viona","virna",
-             "wahid","wahzo","wok","wndt","wiena",
-             "yoky","yasmine","yao","yohana","yaya",
-             "zurro","zurrotul","zion","zefanyaa"];
+var admin = ["Siâo","andre","adiat","andy","ayunda","audi","arxidi","adi","aldi","ananda","alde","adm","ayesha","aqisya","anjani","apri","amore","arifin","ayunda",
+             "boleng","biru","bobby","bastian","bambang",
+             "cristina","camb","cassa","che","cinta","celsia","calista","cahyo","cipto","claura",
+             "david",",dewa","desi","debby","dewi","dentoto","dika","delon",
+             "erwin","elvina",
+             "fira","fahresa",
+             "gita","genzo",
+             "habib","hefi","hoihai","herfizah",
+             "icha","iyatoto",
+             "jordi","jaguar","jne","je pe","jess","junior",
+             "kei","kumbara","kembar","kotna","karina",
+             "lianda","lusiana","lina","laura","lia",
+             "mahendra","monica","mey","mersya","mad","multi","mariana","melati","meleqq","megaways","minion","melly",
+             "nasution","nyocol","naura","neng","nino","nona","neman","novi","nella","nayla","naomi",
+             "oscar",
+             "pung","puput","priyan","primus","primus",
+             "ratu","rio","ria","rikodo","rizal","roy","rendy","rahma",
+             "sandiego","san","sanjaya","siska","safar","sinta","surianti","satria","sapto","salsabila","sanchez","sofia","sonia","serena","specialis",
+             "tink","tiktak","tiara","tatang",
+             "yanty","yoky","yohana","yura","yaya",
+             "wulan","wok","wak",
+             "zuko"];
 
 
 
