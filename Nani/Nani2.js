@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.27
+// @version      3.28
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani2.js?token=GHSAT0AAAAAACVY7DN4LLCNUQZ3IJAS5AS6ZVTRYLQ
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani2.js?token=GHSAT0AAAAAACVY7DN4LLCNUQZ3IJAS5AS6ZVTRYLQ
@@ -53,8 +53,8 @@ var Comment11 = '#TOYIBSLOT ( MERYAK18 ) : 11*20*38';
 var namagroup12 = 'MASTER KUY';
 var Comment12 = 'TOGELKUY MERGKAT26 58*88*38'; 
 
-var namagroup13 = 'L0MBA';
-var Comment13 = '#TOTO4D (MERYAK18) 02*09*60'; 
+var namagroup13 = 'TASIKTOTO';
+var Comment13 = '#TASIKTOTO(MERYAK18) = 02*09';
 
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 67*98*05 ( MERSLO72 )'; 
@@ -95,7 +95,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["Siâo"," ","andre","adiat","andy","ayunda","audi","arxidi","aditia","aldi","ananda","alde","adm","ayesha",
+var admin = ["Siâo"," ","andre","adiat","andy","ayunda","Ozawa","audi","arxidi","aditia","aldi","ananda","alde","adm","ayesha",
              "boleng","biru","bobby","bastian",
              "cristina","camb","cassa","che","cinta","celsia",
              "david",",dewa","desi","debby","dewi","dentoto","dika",
