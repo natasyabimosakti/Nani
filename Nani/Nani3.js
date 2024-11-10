@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.29
+// @version      3.30
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani3.js?token=GHSAT0AAAAAACVY7DN4VO7H4WEHMYUJSVUCZVTRZAQ
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani3.js?token=GHSAT0AAAAAACVY7DN4VO7H4WEHMYUJSVUCZVTRZAQ
@@ -56,8 +56,8 @@ var Comment12 = 'TOGELKUY FERSULENG23 73*10*97';
 var namagroup13 = 'TASIKTOTO';
 var Comment13 = '#TASIKTOTO(FERKONTIL22) = 52*26';
 
-var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 04*76*81 ( FERDIGOD12 )'; 
+var namagroup14 = 'TGL123';
+var Comment14 = '#(TOGEL123) = (FERDIGOD12) 04*76*81'; 
 
 var namagroup15 = 'VESPA';
 var Comment15 = 'VESPATOGEL (FERDIGOD12) 00*28*07'; 
