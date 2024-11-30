@@ -57,7 +57,7 @@ var namagroup13 = 'TASIKTOTO';
 var Comment13 = '#TASIKTOTO(MERYAK18) = 02*09';
 
 var namagroup14 = 'DENTOTO';
-var Comment14 = '‌#DENTOTO 36*80*62 ( TANLES78 )'; 
+var Comment14 = '‌#DENTOTO 67*98*05 ( MERSLO72 )'; 
 
 var namagroup15 = 'VESPA';
 var Comment15 = 'VESPATOGEL (MERESLO72) 78*46*77'; 
