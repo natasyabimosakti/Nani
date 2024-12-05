@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.33
+// @version      3.34
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani4.js?token=GHSAT0AAAAAACVY7DN42NTIO4V4G5TZJ7TYZVTRZSQ
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani4.js?token=GHSAT0AAAAAACVY7DN42NTIO4V4G5TZJ7TYZVTRZSQ
@@ -55,8 +55,8 @@ var Comment12 = 'TOGELKUY MINARMANUK77 31*44*43';
 var namagroup13 = 'TASIKTOTO';
 var Comment13 = '#TASIKTOTO(MINHARELOK88) = 94*89';
 
-var namagroup14 = 'DENTOTO';
-var Comment14 = '‌#DENTOTO 08*87*53 ( MINARVESTO98 )';
+var namagroup14 = 'GROUP PREDIKSI';
+var Comment14 = '‌# ( MINARVESTO98 ) : 74*82*84';
 
 var namagroup15 = 'VESPA';
 var Comment15 = 'VESPATOGEL (MINARVESTO98) 91*93*23'; 
@@ -95,7 +95,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["Siâo","andre","adiat","andy","Intan","kopi","ayunda","audi","arxidi","adi","aldi","ananda","alde","adm","ayesha","aqisya","anjani","apri","amore","arifin","ayunda","agung","arem",
+var admin = ["Siâo","andre","adiat","Hokage","andy","Intan","kopi","ayunda","audi","arxidi","adi","aldi","ananda","alde","adm","ayesha","aqisya","anjani","apri","amore","arifin","ayunda","agung","arem",
              "boleng","biru","bobby","bastian","bambang","bogard",
              "cristina","camb","cassa","che","cinta","celsia","calista","cahyo","cipto","claura","chelsea","calista",
              "david",",dewa","desi","debby","dewi","dentoto","dika","delon",
