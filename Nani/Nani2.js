@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.35
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani2.js?token=GHSAT0AAAAAACVY7DN4LLCNUQZ3IJAS5AS6ZVTRYLQ
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani2.js?token=GHSAT0AAAAAACVY7DN4LLCNUQZ3IJAS5AS6ZVTRYLQ
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani2.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani2.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
