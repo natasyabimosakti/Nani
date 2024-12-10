@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.36
+// @version      3.37
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani4.js
@@ -31,8 +31,8 @@ var Comment4 = 'GAIB4D=MINHAROKOK87=91*93*23';
 var namagroup5 = 'KEITOGEL';
 var Comment5 = '#keitogel = (MINHARMATI77) = 08*87*53'; 
 
-var namagroup6 = 'Pasar';
-var Comment6 = 'PAJAKTOTO(MINHARIMAU67) : 94*89'; 
+var namagroup6 = 'POSOTOTO';
+var Comment6 = '#POSOTOTO=MINHARIMAU67= 94*89';
 
 var namagroup7 = '453P VIP';
 var Comment7 = 'ASEPTOGEL MINHAROLOL77 31*44*43'; 
@@ -74,7 +74,7 @@ var Comment18 = 'Zulf4';
 
 var refresh = 50;
 
-var admin = ["Siâo","andre","adiat","andy","ayunda","audi","arxidi","adi","aldi","ananda","alde","adm","ayesha","aqisya","anjani","apri","amore","arifin","ayunda","agung","arem","arifa",
+var admin = ["Siâo","andre","adiat","andy","Genzo","ayunda","audi","arxidi","adi","aldi","ananda","alde","adm","ayesha","aqisya","anjani","apri","amore","arifin","ayunda","agung","arem","arifa",
              "boleng","biru","bobby","bastian","bambang","bogard",
              "cristina","camb","cassa","che","cinta","celsia","calista","cahyo","cipto","claura","chelsea","calista",
              "david",",dewa","desi","debby","dewi","dentoto","dika","delon","dewy",
