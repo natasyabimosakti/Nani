@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.37
+// @version      3.38
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani2.js
@@ -74,7 +74,7 @@ var Comment18 = 'Zulf2';
 
 var refresh = 50;
 
-var admin = ["Siâo","andre","adiat","Genzo","andy","ayunda","audi","arxidi","adi","aldi","ananda","alde","adm","ayesha","aqisya","anjani","apri","amore","arifin","ayunda","agung","arem","arifa",
+var admin = ["Siâo","andre","adiat","Hokage","Genzo","andy","ayunda","audi","arxidi","adi","aldi","ananda","alde","adm","ayesha","aqisya","anjani","apri","amore","arifin","ayunda","agung","arem","arifa",
              "boleng","biru","bobby","bastian","bambang","bogard",
              "cristina","camb","cassa","che","cinta","celsia","calista","cahyo","cipto","claura","chelsea","calista",
              "david",",dewa","desi","debby","dewi","dentoto","dika","delon","dewy",
