@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.38
+// @version      3.39
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani4.js
@@ -17,55 +17,55 @@
 
 
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*MINHARYOSU73*25*16'; 
+var Comment1 = '#shiokelinci4d*MINHARYOSU73*06*28'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO MINHAYOLO77 39*27*32'; 
+var Comment2 = 'IYATOTO MINHAYOLO77 16*81*71'; 
 
 var namagroup3 = 'TIKTAK';
-var Comment3 = 'Tiktaktogel / MINYORASU97 / 74 , 82 , 84'; 
+var Comment3 = 'Tiktaktogel / MINYORASU97 / 90 , 79 , 09'; 
 
 var namagroup4 = 'GAIB';
-var Comment4 = 'GAIB4D=MINHAROKOK87=91*93*23'; 
+var Comment4 = 'GAIB4D=MINHAROKOK87=15*98*86'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (MINHARMATI77) = 08*87*53'; 
+var Comment5 = '#keitogel = (MINHARMATI77) = 37*13*02'; 
 
-var namagroup6 = 'POSOTOTO';
-var Comment6 = '#POSOTOTO=MINHARIMAU67= 94*89';
+var namagroup6 = 'JOGJA';
+var Comment6 = '#JOGJATOTO (MINHARIMAU67)= 93-62'; 
 
 var namagroup7 = '453P VIP';
-var Comment7 = 'ASEPTOGEL MINHAROLOL77 31*44*43'; 
+var Comment7 = 'ASEPTOGEL MINHAROLOL77 21*73*87'; 
 
 var namagroup8 = 'MENARA';
-var Comment8 = '#MENARA4D=MINHANTULO89= 19*03'; 
+var Comment8 = '#MENARA4D=MINHANTULO89= 34*76'; 
 
 var namagroup9 = 'GIL4';
-var Comment9 = 'GILA4D=MINHIKABOR99=19*03*18'; 
+var Comment9 = 'GILA4D=MINHIKABOR99=34*76*24'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(MINHARIASU27)*31*44*59'; 
+var Comment10 = '#JNETOTO(MINHARIASU27)*21*73*63'; 
 
 var namagroup11 = 'TOYIB';
-var Comment11 = '#TOYIBSLOT ( MINHARELOK88 ) : 94*89*29'; 
+var Comment11 = '#TOYIBSLOT ( MINHARELOK88 ) : 93*62*63'; 
 
 var namagroup12 = 'MASTER KUY';
-var Comment12 = 'TOGELKUY MINARMANUK77 08*87*53'; 
+var Comment12 = 'TOGELKUY MINARMANUK77 37*13*02'; 
 
-var namagroup13 = 'TASIK';
-var Comment13 = '#TASIKTOTO(MINHARELOK88) = 91*93'; 
+var namagroup13 = 'KOI';
+var Comment13 = '#KOITOTO ( MINHARELOK88 ) 15*98'; 
 
 var namagroup14 = 'GROUP PREDIKSI';
-var Comment14 = '# ( MINARVESTO98 ) : 74*82*84'; 
+var Comment14 = '# ( MINARVESTO98 ) : 90*79*09'; 
 
 var namagroup15 = 'VESPA';
-var Comment15 = 'VESPATOGEL (MINARVESTO98) 39*27*32'; 
+var Comment15 = 'VESPATOGEL (MINARVESTO98) 16*81*71'; 
 
 var namagroup16 = 'NEMO';
-var Comment16 = 'NEMO4D (MINARVESTO98) : 25*16*85'; 
+var Comment16 = 'NEMO4D (MINARVESTO98) : 06*28*27'; 
 
 var namagroup17 = 'KIKO';
-var Comment17 = '#KIKOTOTO (MINARVESTO98) = 18*59';
+var Comment17 = '#KIKOTOTO (MINARVESTO98) = 87*42';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Zulf4';
