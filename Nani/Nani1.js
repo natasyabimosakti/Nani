@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.38
+// @version      3.39
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani1.js
@@ -17,55 +17,55 @@
 
 
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*TANASOFI*47*54'; 
+var Comment1 = '#shiokelinci4d*TANASOFI*29*74'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO TANPLAK123 17*95*61'; 
+var Comment2 = 'IYATOTO TANPLAK123 96*83*68'; 
 
 var namagroup3 = 'TIKTAK';
-var Comment3 = 'Tiktaktogel / TANLOYO12 / 55 , 90 , 06'; 
+var Comment3 = 'Tiktaktogel / TANLOYO12 / 19 , 59 , 03'; 
 
 var namagroup4 = 'GAIB';
-var Comment4 = 'GAIB4D=TANKOR90=51*35*01'; 
+var Comment4 = 'GAIB4D=TANKOR90=25*85*67'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (TANMO38) = 36*80*62'; 
+var Comment5 = '#keitogel = (TANMO38) = 01*44*31'; 
 
-var namagroup6 = 'POSOTOTO';
-var Comment6 = '#POSOTOTO=TANLALI14= 37*15';
+var namagroup6 = 'JOGJA';
+var Comment6 = '#JOGJATOTO (TANLALI14)= 88-75'; 
 
 var namagroup7 = '453P VIP';
-var Comment7 = 'ASEPTOGEL TANLONTO12 14*57*99'; 
+var Comment7 = 'ASEPTOGEL TANLONTO12 17*84*50'; 
 
 var namagroup8 = 'MENARA';
-var Comment8 = '#MENARA4D=TANDOL78= 65*56'; 
+var Comment8 = '#MENARA4D=TANDOL78= 08*14'; 
 
 var namagroup9 = 'GIL4';
-var Comment9 = 'GILA4D=TANMEROT2=65*56*48'; 
+var Comment9 = 'GILA4D=TANMEROT2=08*14*33'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(TANLOLO88)*14*57*42'; 
+var Comment10 = '#JNETOTO(TANLOLO88)*17*84*41'; 
 
 var namagroup11 = 'TOYIB';
-var Comment11 = '#TOYIBSLOT ( TANLOL87 ) : 37*15*50'; 
+var Comment11 = '#TOYIBSLOT ( TANLOL87 ) : 88*75*41'; 
 
 var namagroup12 = 'MASTER KUY';
-var Comment12 = 'TOGELKUY TANLANAS36 36*80*62'; 
+var Comment12 = 'TOGELKUY TANLANAS36 01*44*31'; 
 
-var namagroup13 = 'TASIK';
-var Comment13 = '#TASIKTOTO(TANLOL87) = 51*35'; 
+var namagroup13 = 'KOI';
+var Comment13 = '#KOITOTO ( TANLOL87 ) 25*85'; 
 
 var namagroup14 = 'GROUP PREDIKSI';
-var Comment14 = '# ( TANLES78 ) : 55*90*06'; 
+var Comment14 = '# ( TANLES78 ) : 19*59*03'; 
 
 var namagroup15 = 'VESPA';
-var Comment15 = 'VESPATOGEL (TANLES78) 17*95*61'; 
+var Comment15 = 'VESPATOGEL (TANLES78) 96*83*68'; 
 
 var namagroup16 = 'NEMO';
-var Comment16 = 'NEMO4D (TANLES78) : 47*54*49'; 
+var Comment16 = 'NEMO4D (TANLES78) : 29*74*04'; 
 
 var namagroup17 = 'KIKO';
-var Comment17 = '#KIKOTOTO (TANLES78) = 48*42';
+var Comment17 = '#KIKOTOTO (TANLES78) = 65*50';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Zulf1';
