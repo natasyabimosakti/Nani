@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS
 // @namespace    http://tampermonkey.net/
-// @version      3.38
+// @version      3.39
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Nani/main/Nani/Nani2.js
@@ -18,55 +18,55 @@
 
 
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*MERIDOL36*33*92'; 
+var Comment1 = '#shiokelinci4d*MERIDOL36*94*43'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO MERALMU66 12*86*68'; 
+var Comment2 = 'IYATOTO MERALMU66 40*92*55'; 
 
 var namagroup3 = 'TIKTAK';
-var Comment3 = 'Tiktaktogel / MERSUHKE76 / 71 , 96 , 75'; 
+var Comment3 = 'Tiktaktogel / MERSUHKE76 / 11 , 45 , 66'; 
 
 var namagroup4 = 'GAIB';
-var Comment4 = 'GAIB4D=MERUITOK3=78*46*77'; 
+var Comment4 = 'GAIB4D=MERUITOK3=05*48*07'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (MERDUS89) = 67*98*05'; 
+var Comment5 = '#keitogel = (MERDUS89) = 70*54*57'; 
 
-var namagroup6 = 'POSOTOTO';
-var Comment6 = '#POSOTOTO=MERIKAN55= 02*09';
+var namagroup6 = 'JOGJA';
+var Comment6 = '#JOGJATOTO (MERIKAN55)= 56-58'; 
 
 var namagroup7 = '453P VIP';
-var Comment7 = 'ASEPTOGEL MERCIKA66 58*88*38'; 
+var Comment7 = 'ASEPTOGEL MERCIKA66 18*52*36'; 
 
 var namagroup8 = 'MENARA';
-var Comment8 = '#MENARA4D=MERUCIK789= 11*20'; 
+var Comment8 = '#MENARA4D=MERUCIK789= 00*20'; 
 
 var namagroup9 = 'GIL4';
-var Comment9 = 'GILA4D=MERANIO98=11*20*83'; 
+var Comment9 = 'GILA4D=MERANIO98=00*20*30'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(MERANTU672)*58*88*41'; 
+var Comment10 = '#JNETOTO(MERANTU672)*18*52*91'; 
 
 var namagroup11 = 'TOYIB';
-var Comment11 = '#TOYIBSLOT ( MERYAK18 ) : 02*09*60'; 
+var Comment11 = '#TOYIBSLOT ( MERYAK18 ) : 56*58*91'; 
 
 var namagroup12 = 'MASTER KUY';
-var Comment12 = 'TOGELKUY MERGKAT26 67*98*05'; 
+var Comment12 = 'TOGELKUY MERGKAT26 70*54*57'; 
 
-var namagroup13 = 'TASIK';
-var Comment13 = '#TASIKTOTO(MERYAK18) = 78*46'; 
+var namagroup13 = 'KOI';
+var Comment13 = '#KOITOTO ( MERYAK18 ) 05*48'; 
 
 var namagroup14 = 'GROUP PREDIKSI';
-var Comment14 = '# ( MERSLO72 ) : 71*96*75'; 
+var Comment14 = '# ( MERSLO72 ) : 11*45*66'; 
 
 var namagroup15 = 'VESPA';
-var Comment15 = 'VESPATOGEL (MERESLO72) 12*86*68'; 
+var Comment15 = 'VESPATOGEL (MERESLO72) 40*92*55'; 
 
 var namagroup16 = 'NEMO';
-var Comment16 = 'NEMO4D (MERSLO72) : 33*92*66'; 
+var Comment16 = 'NEMO4D (MERSLO72) : 94*43*12'; 
 
 var namagroup17 = 'KIKO';
-var Comment17 = '#KIKOTOTO (MERESLO72) = 83*41';
+var Comment17 = '#KIKOTOTO (MERESLO72) = 36*49';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Zulf2';
